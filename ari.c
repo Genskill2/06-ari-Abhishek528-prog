@@ -111,7 +111,22 @@ string ari(string s)
  w="Professor";
  return w;
 }
- }
+ 
+ 
+
+
+}
+ 
+
+
+
+
+ 
+
+
+
+
+
  
 
 
